@@ -6,6 +6,6 @@
 
 # Resultado Final
 
-<img src="file:///C:/Users/annac/Desktop/resultado.png" alt="Web Version"/>
+<img src="C:\Users\annac\Desktop"/resultado.png />
 #
 #### By Wiokya. :)
