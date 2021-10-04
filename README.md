@@ -6,6 +6,3 @@
 
 # Resultado Final
 
-<img src="resultado.png" />
-#
-#### By Wiokya. :)
