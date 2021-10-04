@@ -1,0 +1,63 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-color: rgb(255, 155, 213);
+}
+
+.tela-login{
+    width: 300px;
+    padding: 40px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background-color: rgb(43, 40, 42);
+    text-align: center;
+    
+}
+
+.tela-login h2{
+    color: white;
+    text-transform: uppercase;
+    font-weight: 380px;
+    
+}
+
+.tela-login input[type = "text"],.tela-login input[type = "password"]{
+    border: 0;
+    background: none;
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+    border: solid 2px rgb(255, 155, 213);
+    padding: 14px 10px;
+    outline: none;
+    color: black;
+    border-radius: 20px;
+    transition: 0.25s;
+
+}
+
+.tela-login input[type = "text"]:focus,.tela-login input[type = "password"]:focus{
+    width: 185px;
+   border-color: white;
+}
+
+.tela-login input[type = "submit"]{
+    border: 0;
+    background: none;
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+    border: solid 2px rgb(255, 255, 255);
+    padding: 14px 35px;
+    outline: none;
+    color: rgb(255, 255, 255);
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.tela-login input[type = "submit"]:hover{
+    background: rgb(243, 146, 202);
+}
