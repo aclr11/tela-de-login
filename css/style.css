@@ -41,7 +41,7 @@ body{
 
 .tela-login input[type = "text"]:focus,.tela-login input[type = "password"]:focus{
     width: 185px;
-   border-color: white;
+    border-color: white;
 }
 
 .tela-login input[type = "submit"]{
